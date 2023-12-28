@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+<div id="badges">
+</a>
+<a href="https://discord.com/channels/@fortneitttt">
+<img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+</a>
+<a href="https://twitter.com/Heather84735704">
+<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
+</div>
 
-<!--
-**sueparker/sueparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+_____________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+Contact me here if you couldn't make arrangements on other social media: sueparker1209@gmail.com
+
+
+I am learning to develop new websites and registered here to gain some new knowledge.
